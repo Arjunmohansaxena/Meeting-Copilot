@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-faster-whisper
-google-generativeai
-python-multipart
-python-dotenv
-reportlab
